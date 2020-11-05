@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Mahendi 👋
 
 <!--
 **Mahendi04/mahendi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+It is a simple Website. This website shows some places to visit in Ontario.
+to Run this project just on link.
